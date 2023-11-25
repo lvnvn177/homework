@@ -3,7 +3,7 @@ import java.net.*;
 import java.util.Date;
 
 public class TimeServer {
-    public final static int PORT = 37;
+    public final static int PORT = 3747;
 
     public static void main(String[] args) {
         long differenceBetweenEpochs = 2208988800L;
